@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Bot",
+  "repository": "https://github.com/kristenleppel/python-aria-mirror-bot",
+  "stack": "container"
+}
